@@ -1,0 +1,10 @@
+[
+  {
+    "package": "caretForecast",
+    "oncran": true
+  },
+  {
+    "package": "ngboostForecast",
+    "oncran": true
+  }
+]
