@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "caretForecast"]
 	path = caretForecast
 	url = https://github.com/akai01/caretforecast
-	shallow = true
-	registered = true
 [submodule "ngboostForecast"]
 	path = ngboostForecast
 	url = https://github.com/akai01/ngboostforecast
-	shallow = true
-	registered = true
